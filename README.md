@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Pomodoro Timer
+# Pomodoro Timer
 
 - The Pomodoro Timer is a productivity tool based on the Pomodoro Technique. It alternates between work sessions and breaks, helping you stay focused and organized. This timer app is built with Python and Tkinter and includes customizable work and break durations.
 
